@@ -1,7 +1,11 @@
 ### Bem vindos ao meu perfil💙
 
-<em>Meu nome é Sandra Rodrigues 
+Meu nome é Sandra Rodrigues 
+Nasci e cresci em Cruzeiro do Iguaçu
+Estudo no Colégio Estadual Doutor Arnaldo Busato (CEDAB)
+Minha diciplina favorita é matemática e ed. física
+Adoro praticar esportes, principalmente vôleiv
 Estou estudando na Alura;
 Estou me desenvolvendo na linguagem JavaScript;
 Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos;
-Pessoas são temporarias momentos não, viva cada momento como se fosse o ultimo</em>
+A vida é feita de momentos únicos, viva cada um deles como se fosse o último
